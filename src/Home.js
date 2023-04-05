@@ -15,6 +15,7 @@ const Home = () => {
         <p>{name} is {age} year old</p>
         <button onClick={handleClick}>click Me</button>
         <h3>Hi</h3>
+        <h3>hi3</h3>
       </div>
     );
   }
